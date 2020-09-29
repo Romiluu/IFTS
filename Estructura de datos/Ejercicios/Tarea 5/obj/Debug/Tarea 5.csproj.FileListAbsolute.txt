@@ -1,0 +1,7 @@
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csprojAssemblyReference.cache
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\obj\Debug\Tarea 5.csproj.CoreCompileInputs.cache
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe.config
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\bin\Debug\Tarea 5.exe
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\bin\Debug\Tarea 5.pdb
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\obj\Debug\Tarea 5.exe
+C:\Users\Romina\source\repos\Tarea 5\Tarea 5\obj\Debug\Tarea 5.pdb

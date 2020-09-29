@@ -1,7 +1,0 @@
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\obj\Debug\Ejercicios 3.csprojAssemblyReference.cache
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\obj\Debug\Ejercicios 3.csproj.CoreCompileInputs.cache
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\bin\Debug\Ejercicios 3.exe.config
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\bin\Debug\Ejercicios 3.exe
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\bin\Debug\Ejercicios 3.pdb
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\obj\Debug\Ejercicios 3.exe
-C:\Users\Romina\source\repos\Ejercicios 3\Ejercicios 3\obj\Debug\Ejercicios 3.pdb

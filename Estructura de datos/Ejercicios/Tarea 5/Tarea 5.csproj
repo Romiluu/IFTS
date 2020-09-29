@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FC46EEA7-2223-4C9B-920A-EAFA8AD7D1B1}</ProjectGuid>
+    <ProjectGuid>{55C35F7B-F2C2-4915-A455-2A02693F6EB5}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Ejercicios_3</RootNamespace>
-    <AssemblyName>Ejercicios 3</AssemblyName>
+    <RootNamespace>Tarea_5</RootNamespace>
+    <AssemblyName>Tarea 5</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <Deterministic>true</Deterministic>
