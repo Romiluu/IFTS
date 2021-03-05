@@ -1,7 +1,0 @@
-C:\Users\Asus\source\repos\TP final romi\TP final romi\obj\Debug\TP final romi.csprojAssemblyReference.cache
-C:\Users\Asus\source\repos\TP final romi\TP final romi\obj\Debug\TP final romi.csproj.CoreCompileInputs.cache
-C:\Users\Asus\source\repos\TP final romi\TP final romi\bin\Debug\TP final romi.exe.config
-C:\Users\Asus\source\repos\TP final romi\TP final romi\bin\Debug\TP final romi.exe
-C:\Users\Asus\source\repos\TP final romi\TP final romi\bin\Debug\TP final romi.pdb
-C:\Users\Asus\source\repos\TP final romi\TP final romi\obj\Debug\TP final romi.exe
-C:\Users\Asus\source\repos\TP final romi\TP final romi\obj\Debug\TP final romi.pdb
